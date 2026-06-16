@@ -1,0 +1,6 @@
+{
+  "name": "Carbon Footprint Calculator",
+  "description": "An advanced, full-stack application that calculates your personal carbon footprint, provides dynamic visualizations, and generates personalized green life pathways using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
